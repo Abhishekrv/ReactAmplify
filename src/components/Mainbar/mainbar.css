@@ -1,0 +1,11 @@
+.mainbar{
+    height: 35px;
+    width: 1500px;
+    background-color:rgb(180, 180, 246);
+}
+
+.mainbarList{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

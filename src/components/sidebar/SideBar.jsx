@@ -10,11 +10,11 @@ export default function SideBar() {
                     <h3 className="sidebarTitle">Dashboard</h3>
                     <ul className="sidebarList">
                         <li className="sidebarListItem">
-                            <FolderOpenTwoTone />
+                            <FolderOpenTwoTone className='sidebarIcon' />
                             Projects
                         </li>
                         <li className="sidebarListItem">
-                            <BugReportTwoTone />
+                            <BugReportTwoTone className='sidebarIcon'/>
                             Vulnerabilities
                         </li>
                     </ul>
